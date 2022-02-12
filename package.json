@@ -1,0 +1,29 @@
+{
+  "name": "-nodejs-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yevhen-Karpov/-nodejs-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yevhen-Karpov/-nodejs-homework/issues"
+  },
+  "homepage": "https://github.com/Yevhen-Karpov/-nodejs-homework#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.3.1"
+  }
+}
